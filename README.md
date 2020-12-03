@@ -24,7 +24,7 @@ Edit Product - https://store-fe.herokuapp.com/dashboard/edit/:productId (Admin O
 
 Delete Product - https://store-fe.herokuapp.com/dashboard (Admin Only)
 
-The Node BackEnd has been deployed here - https://store-be.herokuapp.com/
+The   BackEnd has been deployed here - https://store-be.herokuapp.com/
 
 
 When a normal user logs in, they will only see the product that were added by them and wouldn't see button to update or delete their product
